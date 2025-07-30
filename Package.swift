@@ -13,7 +13,7 @@ let package = Package(
             targets: ["SVGAPlayerSDKTarget"]),
     ],
     dependencies: [.package(url: "https://github.com/ZipArchive/ZipArchive.git", exact: "2.4.3"),
-                   .package(url: "https://github.com/zy19890102/Protobuf", exact: "1.0.0")],
+                   .package(url: "https://github.com/zy19890102/Protobuf", exact: "1.1.0")],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.

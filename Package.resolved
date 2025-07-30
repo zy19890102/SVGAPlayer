@@ -1,13 +1,13 @@
 {
-  "originHash" : "f33e4c74c2cb3f3eeec37ac6541b038209df235a438973ee7507411b2e468104",
+  "originHash" : "524edc0c5de8336b157e13ad89d44332455a988242998f29d42ba386661d1c9c",
   "pins" : [
     {
       "identity" : "protobuf",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/zy19890102/Protobuf",
       "state" : {
-        "revision" : "30f77ca75baf21d96e56c58293fa47dfe0cc665b",
-        "version" : "1.0.0"
+        "revision" : "c24b797b04c075593d1f7a26d994a16f115be9b6",
+        "version" : "1.1.0"
       }
     },
     {
