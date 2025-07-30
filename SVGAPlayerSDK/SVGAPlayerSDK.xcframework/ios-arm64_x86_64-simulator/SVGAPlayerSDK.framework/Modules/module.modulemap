@@ -1,0 +1,6 @@
+framework module SVGAPlayerSDK {
+  umbrella header "SVGAPlayerSDK.h"
+  export *
+
+  module * { export * }
+}
