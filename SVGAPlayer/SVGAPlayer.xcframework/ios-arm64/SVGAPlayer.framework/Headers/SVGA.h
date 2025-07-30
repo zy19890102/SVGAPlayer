@@ -7,11 +7,11 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <SVGAPlayerSDK/SVGAParser.h>
-#import <SVGAPlayerSDK/SVGAPlayer.h>
-#import <SVGAPlayerSDK/SVGAImageView.h>
-#import <SVGAPlayerSDK/SVGAVideoEntity.h>
-#import <SVGAPlayerSDK/SVGAExporter.h>
+#import <SVGAPlayer/SVGAParser.h>
+#import <SVGAPlayer/SVGAPlayer.h>
+#import <SVGAPlayer/SVGAImageView.h>
+#import <SVGAPlayer/SVGAVideoEntity.h>
+#import <SVGAPlayer/SVGAExporter.h>
 
 @interface SVGA : NSObject
 
