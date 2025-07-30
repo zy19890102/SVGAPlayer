@@ -1,0 +1,24 @@
+{
+  "originHash" : "ce1d64b3cb52e9fa2944e0d9bd123ebeefd452a463c205d0a5ead86168d5c944",
+  "pins" : [
+    {
+      "identity" : "protobuf",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/zy19890102/Protobuf",
+      "state" : {
+        "revision" : "0cee66f78e902f9aee599c5c0aed506c1228ab65",
+        "version" : "3.26.1"
+      }
+    },
+    {
+      "identity" : "ziparchive",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ZipArchive/ZipArchive.git",
+      "state" : {
+        "revision" : "38e0ce0598e06b034271f296a8e15b149c91aa19",
+        "version" : "2.4.3"
+      }
+    }
+  ],
+  "version" : 3
+}
