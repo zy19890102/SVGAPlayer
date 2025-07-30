@@ -6,11 +6,11 @@
 	<dict>
 		<key>.DS_Store</key>
 		<data>
-		TkRjJSa4iIYhrtj8SqS7fOskSWs=
+		JireQYlJsazzvxdOc1WdsTTPNz0=
 		</data>
 		<key>Headers/SVGA.h</key>
 		<data>
-		gfo+vTlj58Wn+TBAxVfBL7rhdM0=
+		UbEhEo4lkqx5KMg2vWUoC1N4d7A=
 		</data>
 		<key>Headers/SVGAAudioEntity.h</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Headers/SVGAContentLayer.h</key>
 		<data>
-		oRed2F0UjYiSLrh4TeyCvuaoKcw=
+		CywfV6CixamaahGDinxSy26mfnI=
 		</data>
 		<key>Headers/SVGAExporter.h</key>
 		<data>
@@ -38,19 +38,19 @@
 		</data>
 		<key>Headers/SVGAImageView.h</key>
 		<data>
-		sL7a1TgVX4o36xjdNX3KVWzPm4k=
+		GUiqiXrp3vHai/PcXSs9x2j1f+w=
 		</data>
 		<key>Headers/SVGAParser.h</key>
 		<data>
 		uyRUorYJU8RfP1fVIPz01pATLS0=
 		</data>
+		<key>Headers/SVGAPlayer-umbrella.h</key>
+		<data>
+		vJD8X9XoAEyjQcI0yON9Wb71ANE=
+		</data>
 		<key>Headers/SVGAPlayer.h</key>
 		<data>
 		ukqDFPrageUxyk/beIpsk8dGup0=
-		</data>
-		<key>Headers/SVGAPlayerSDK.h</key>
-		<data>
-		/pIPk9JQur+epTOn/VAzgbb1qmw=
 		</data>
 		<key>Headers/SVGAVectorLayer.h</key>
 		<data>
@@ -68,38 +68,30 @@
 		<data>
 		t0tsRLQ8WaYZGVURomTW2c0ftbE=
 		</data>
+		<key>Headers/Svga.pbobjc.h</key>
+		<data>
+		iTKFdRFkdcrq4jMGQtuHjL3Hhqw=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		Tau+kO6Q1HT3gWvw9HF9VH9jAcg=
+		h7IfuUIeDS59xmdjOgNWSoGA9MQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		1mUKCruKUBrBpkEuOrRCGY+rmo8=
-		</data>
-		<key>PrivacyInfo.xcprivacy</key>
-		<data>
-		i2zNyphI3cwDK8HqlLaPer5jSNE=
+		duXlTSQozMHuQwwccElmSCb6vG4=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>Headers/SVGA.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gfo+vTlj58Wn+TBAxVfBL7rhdM0=
-			</data>
 			<key>hash2</key>
 			<data>
-			gMvF3/TC4umhCZZYLm7KFxq/EmJb63FHXuB19PaWGco=
+			fxRhIh7pIwn624eFXQuKeQaD/h8UUqSRUXY+59gBs18=
 			</data>
 		</dict>
 		<key>Headers/SVGAAudioEntity.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nQvH3rZB8o0zAz757OLbcw4YFvI=
-			</data>
 			<key>hash2</key>
 			<data>
 			qC6Bpxra6BkbnMDSEwPqE3MIM1Ey5natVJv54z2K0Pk=
@@ -107,10 +99,6 @@
 		</dict>
 		<key>Headers/SVGAAudioLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HqEallmIJDi4b09TU2DoFRGA1QI=
-			</data>
 			<key>hash2</key>
 			<data>
 			c9/n84xI+WcjAkkqOKpnp2AQ9oSB7C7EkW2LEdL+Dhc=
@@ -118,10 +106,6 @@
 		</dict>
 		<key>Headers/SVGABezierPath.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zn+2wzddkUefJuH+oElDoUBI7yI=
-			</data>
 			<key>hash2</key>
 			<data>
 			10kTK76KzEsoviscbTOsMWv72QjCYLZFumbwQI1H8F4=
@@ -129,10 +113,6 @@
 		</dict>
 		<key>Headers/SVGABitmapLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+MHmbDaQWyw0JjhsZOPUiflkkXk=
-			</data>
 			<key>hash2</key>
 			<data>
 			oDFF/u4bfeUoZSzS49j4fIdPtYSJB7Y/k9GTZTrZ+h8=
@@ -140,21 +120,13 @@
 		</dict>
 		<key>Headers/SVGAContentLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oRed2F0UjYiSLrh4TeyCvuaoKcw=
-			</data>
 			<key>hash2</key>
 			<data>
-			UsHtO6+++9n993PzEclQ5bsqsXLKwG4xXyQ+bTdqFdE=
+			/5ZLyaO/5oFCON5xfJXXsu82W3T3MIXMaSlonx+3HvE=
 			</data>
 		</dict>
 		<key>Headers/SVGAExporter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6VBjymazWBPV97pOxKMhlZb7W5I=
-			</data>
 			<key>hash2</key>
 			<data>
 			rXQ5naaQ04A282wG45v+tsek/LWy8XZJSPhfIbkeyV0=
@@ -162,54 +134,34 @@
 		</dict>
 		<key>Headers/SVGAImageView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sL7a1TgVX4o36xjdNX3KVWzPm4k=
-			</data>
 			<key>hash2</key>
 			<data>
-			9NRe7YJsGQKA+v5IR694dzMhvZQ7ul1kvObqwX3qTQk=
+			mPPpGf5ao7/Ev8eVbv0PsCgK8LA4+/hM+ajQMDqoTz8=
 			</data>
 		</dict>
 		<key>Headers/SVGAParser.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uyRUorYJU8RfP1fVIPz01pATLS0=
-			</data>
 			<key>hash2</key>
 			<data>
 			i/e61dDWhSWx9shjmVp8neEZ7khJSNbfOulQAwlAop8=
 			</data>
 		</dict>
+		<key>Headers/SVGAPlayer-umbrella.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BjEiaXLfyVMMKkrwCE88S3CHZplgZnWWz4XCpFLfJKk=
+			</data>
+		</dict>
 		<key>Headers/SVGAPlayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ukqDFPrageUxyk/beIpsk8dGup0=
-			</data>
 			<key>hash2</key>
 			<data>
 			Gk3Bv2/zOaDCBaoK+6Xve0Xrx5gs44NwWOqqwR0bQTs=
 			</data>
 		</dict>
-		<key>Headers/SVGAPlayerSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/pIPk9JQur+epTOn/VAzgbb1qmw=
-			</data>
-			<key>hash2</key>
-			<data>
-			EkMgHn6MeFS7jFcsh8QvkC8TRfJqhsK261rPyCs20gU=
-			</data>
-		</dict>
 		<key>Headers/SVGAVectorLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0466V9CuUHjV8K3kQ029lS/q1BM=
-			</data>
 			<key>hash2</key>
 			<data>
 			CY6M9kdbpps6Beu6ysRFVOA9MCT7msJwizDLL1no9+o=
@@ -217,10 +169,6 @@
 		</dict>
 		<key>Headers/SVGAVideoEntity.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			l0LzGDjd3M/4QzDciEV/LnsV5l8=
-			</data>
 			<key>hash2</key>
 			<data>
 			lXQfSf5neKhMN1ZtL0fi+JOsozWWTcCRV6pzGUkhh38=
@@ -228,10 +176,6 @@
 		</dict>
 		<key>Headers/SVGAVideoSpriteEntity.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lR5RnX7F/W8Wjuuht03FR6/HcuM=
-			</data>
 			<key>hash2</key>
 			<data>
 			+2H5Vh8zRbo83AsgDFZz32QSB0cjT9XjBVMzvz5nMzg=
@@ -239,35 +183,23 @@
 		</dict>
 		<key>Headers/SVGAVideoSpriteFrameEntity.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			t0tsRLQ8WaYZGVURomTW2c0ftbE=
-			</data>
 			<key>hash2</key>
 			<data>
 			DJyQ6zAZYd2p5sjSWWxVxU6DBqGFuetySkR3LPWjlpM=
 			</data>
 		</dict>
-		<key>Modules/module.modulemap</key>
+		<key>Headers/Svga.pbobjc.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1mUKCruKUBrBpkEuOrRCGY+rmo8=
-			</data>
 			<key>hash2</key>
 			<data>
-			cJt1jYAYT+yv232tr1zLeZcpSv4C/OtuKScdpJJLeoo=
+			xqonKAfKGj1W2jBu3ncLNByPExykjFLxdKzXHDU7VZI=
 			</data>
 		</dict>
-		<key>PrivacyInfo.xcprivacy</key>
+		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			i2zNyphI3cwDK8HqlLaPer5jSNE=
-			</data>
 			<key>hash2</key>
 			<data>
-			F3hNpi5R90xYWd8y/kAuAeJc3295ekrdBuKjzhXJEfQ=
+			wpfHQwoEQ/6nOtAqKFNBdksag4lpdC4yirAmUfEHP8E=
 			</data>
 		</dict>
 	</dict>

@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <SVGAPlayerSDK/SVGAPlayer.h>
+#import "SVGAPlayer.h"
 
 @class SVGABitmapLayer, SVGAVectorLayer, SVGAVideoSpriteFrameEntity;
 
